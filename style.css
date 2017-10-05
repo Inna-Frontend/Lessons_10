@@ -1,0 +1,80 @@
+.wraper {
+    margin: -8px;
+}
+header {
+	background: url(img/elegant-fon.png);
+	height: 697px;
+}
+.menu {
+    display: inline-block;
+    margin-left: 1085px;
+    color: #fff;
+    font-family: sans-serif;
+}
+span {
+	color: #fff;
+}
+.button {
+	text-align: center;
+    margin: -5px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 50%;
+    box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    margin-left: 625px;
+    margin-top: -85px;
+}
+.interesting {
+    text-align: center;
+    margin-left: 391px;
+    margin-right: 356px;
+    color: #8f8a8a;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+    margin-top: 150px;
+}
+img {
+	display: inline-block;
+    float: left;
+}
+h2 {
+    font-size: 40px;
+    color: #6a6868;
+}
+.we {
+	display: inline-block;
+    float: left;
+}
+.de {
+	float: right;
+	margin-top: 35px;
+}
+li {
+    display: table;
+}
+.imges {
+	display: inline-block;
+}
+.Services {
+	float: right;
+    margin-right: 260px;
+}
+.imges {
+	display: inline-block;
+    float: left;
+}
+.Developed {
+	display: inline-block;
+    margin-left: 312px;
+    margin-top: 10px;
+}
+.Email {
+	float: right;
+    margin-right: 272px;
+    margin-top: 10px;
+}
+footer {
+	background: #eae7e7;
+    margin-top: 552px;
+}
